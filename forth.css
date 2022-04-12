@@ -1,0 +1,153 @@
+.container {
+    background-image: conic-gradient(red, green, yellow);
+    width: auto;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+    background-image: linear-gradient(to right, red, green 10%, rgb(127, 214, 214), yellow);
+}
+.container0 {
+    border: 2px solid red;
+    width: 450px;
+    height: 45px;
+    background-color: rgb(127, 214, 214);
+    border-radius: 6px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.in {
+    font-size: 12px;
+    text-align: center;
+}
+.container1 {
+    width: auto;
+    height: 130px;
+    display: flex;
+    background-color: aquamarine;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+.item {
+    border: 2px solid green;
+    width: 300px;
+    height: 60px;
+    background-color: aqua;
+    border-radius: 8px;
+}
+.container2 {
+    height: 25px;
+    width: auto;
+    text-align: center;
+    text-decoration: underline red;
+    background-color: orange;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bolder;
+    background-image: radial-gradient(yellow 50%, red);
+}
+.container3 {
+    width: auto;
+    height: 200px;
+    background-color: aqua;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 2px solid green;
+    margin-bottom: 25px;
+    background-image: radial-gradient(ellipse at center, blue, rgb(21, 200, 213), rgb(130, 254, 130));
+}
+.box {
+    height: 70px;
+    width: 150px;
+    background-color: yellow;
+    border: 2px solid red;
+    text-decoration: underline;
+    color: red;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.container5 {
+    height: 280px;
+    width: auto;
+    background-color: white;
+    border: 1px solid black;
+}
+.head {
+    text-align: center;
+    color: white;
+    background-color: rgb(194, 32, 83);
+    padding-bottom: 15px;
+    font-weight: bolder;
+}
+.lower1 {
+    width: 320px;
+    height: 60px;
+    background-color: rgb(59, 229, 172);
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+}
+.lower2 {
+    position: relative;
+    bottom: 82px;
+    left: 340px;
+    width: 330px;
+    height: 60px;
+    background-color: rgb(121, 129, 198);
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.lower3 {
+    position: relative;
+    left: 680px;
+    bottom: 166px;
+    width: 300px;
+    height: 60px;
+    background-color: rgb(150, 139, 216);
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: bolder;
+
+}
+
+.lower4 {
+    position: relative;
+    bottom: 170px;
+    width: 985px;
+    height: 100px;
+    background-color: orange;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+}
+.lower6 {
+    width: auto;
+    background-color: aqua;
+    text-align: center;
+    text-decoration: underline;
+    position: relative;
+    bottom: 50px;
+}
+.lower5 {
+    height: 190px;
+    width: 120px;
+    position: relative;
+    bottom: 380px;
+    left: 1006px;
+    color: aliceblue;
+    background-color: rgb(51, 41, 41);
+    font-size: 12px;
+}
+hr {
+    margin: 1px;
+}
